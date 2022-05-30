@@ -6,8 +6,8 @@
 - Language
     > Java, Python, C, Javascript, SQL, R
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonnn03&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonnn03&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonnn03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&section=footer) -->
 
